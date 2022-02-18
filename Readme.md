@@ -10,7 +10,7 @@
 
 ***
 > Contact Me(on Whatsapp) ✏
-<div align="center"><a href="wa.me/94770083563"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Yuren_Sasanka-success"></a></div>
+<div align="center"><a href="http://wa.me/94770083563"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Yuren_Sasanka-success"></a></div>
 
 ---
 > KING MAHASONA CREW (Whatsapp Group) ✏
