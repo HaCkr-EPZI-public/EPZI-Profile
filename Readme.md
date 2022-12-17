@@ -1,4 +1,4 @@
-<div align="center"><h1>❖❖❖ HaCkr.EPZI ❖❖❖</h1><a href="https://github.com/KING-MAHASONA-crew"><img src="https://i.ibb.co/txQg1mR/MAHASONA-WHATSAPP-BOT-ALIVE-IMAJE.png" width="250" height="250"></a><h3>✬✬ HaCkr.EPZi ✬✬</h3></div>
+<div align="center"><h1>❖❖❖ HaCkr.EPZI ❖❖❖</h1><a href="https://github.com/KING-MAHASONA-crew"><img src="https://i.ibb.co/YWGmZrD/hckr-epzi-3.png" width="250" height="250"></a><h3>✬✬ HaCkr.EPZi ✬✬</h3></div>
 
 
 ***
@@ -22,9 +22,9 @@
 ***
 
 
-<table><tr><th>EPZI GANG</th><th> Yuren Sasanka </th></tr><td><a href="https://github.com/KING-MAHASONA-crew"><img src="https://i.ibb.co/txQg1mR/MAHASONA-WHATSAPP-BOT-ALIVE-IMAJE.png" width="180" alt="HaCkr EPZI"></a></td><td><a href="https://github.com/sasanka-bro"><img src="https://i.ibb.co/pJ6B88w/IMG-20220217-093004-114.jpg" width="180" alt="Yuren Sasanka"></a></td></tr><tr><td>Owner</td><td>Developer & Owner </td></tr></tr></table>
+<table><tr><th>EPZI GANG</th><th> Yuren Sasanka </th></tr><td><a href="http://www.hackr-epzi.ml/"><img src="https://i.ibb.co/d4ZnCrb/hckrepzi4.png" width="180" alt="HaCkr EPZI"></a></td><td><a href="https://github.com/HaCkr-EPZI-public"><img src="https://i.ibb.co/1rrtcKR/Seeya-Airtel-20220217-092411.jpg" width="180" alt="Yuren Sasanka"></a></td></tr><tr><td>  SQUAD</td><td>Developer & Owner </td></tr></tr></table>
 
 
 ***
-<div align="center"><h1>By Hackr.EPZi</h1><a href="https://github.com/KING-MAHASONA-crew/"></a></div>
+<div align="center"><h1>By Hackr.EPZi</h1><a href="http://www.hackr-epzi.ml/"></a></div>
 
