@@ -22,9 +22,9 @@
 ***
 
 
-<table><tr><th>KING:MAHASONA</th><th>Yuren Sasanka </th></tr><td><a href="https://github.com/KING-MAHASONA-crew"><img src="https://i.ibb.co/txQg1mR/MAHASONA-WHATSAPP-BOT-ALIVE-IMAJE.png" width="180" alt="KING MAHASONA"></a></td><td><a href="https://github.com/sasanka-bro"><img src="https://i.ibb.co/pJ6B88w/IMG-20220217-093004-114.jpg" width="180" alt="Yuren Sasanka"></a></td></tr><tr><td>Owner</td><td>Developer & Owner </td></tr></tr></table>
+<table><tr><th>EPZI GANG</th><th> Yuren Sasanka </th></tr><td><a href="https://github.com/KING-MAHASONA-crew"><img src="https://i.ibb.co/txQg1mR/MAHASONA-WHATSAPP-BOT-ALIVE-IMAJE.png" width="180" alt="HaCkr EPZI"></a></td><td><a href="https://github.com/sasanka-bro"><img src="https://i.ibb.co/pJ6B88w/IMG-20220217-093004-114.jpg" width="180" alt="Yuren Sasanka"></a></td></tr><tr><td>Owner</td><td>Developer & Owner </td></tr></tr></table>
 
 
 ***
-<div align="center"><h1>✬✬ The World Best HACKER & PROGRAMER ✬✬</h1><a href="https://github.com/KING-MAHASONA-crew/"></a></div>
+<div align="center"><h1>By Hackr.EPZi</h1><a href="https://github.com/KING-MAHASONA-crew/"></a></div>
 
